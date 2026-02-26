@@ -1,0 +1,8 @@
+{
+    "name": "#B04850FFOt#F06060FFva#F87468FFzh#F8AC90FFna#F8D8A8FFya#808080FF - Endless",
+    "descriptions": ["#DDA950FFThere is no greater sorrow than to reminisce of happy times while suffering."],
+    "information": "Once bitten, twice dead. This level is unfinished and deprecated.",
+    "entry_point": "level.lua",
+    "has_score_leaderboard": true,
+    "rank_thresholds_1p": {"bronze": 50000, "silver": 100000, "gold": 200000}
+}
